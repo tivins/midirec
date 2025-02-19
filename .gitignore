@@ -1,3 +1,7 @@
+.idea/
+files/
+akai_steinway.sf2
+*.js
 # Logs
 logs
 *.log

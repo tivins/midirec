@@ -1,2 +1,2 @@
 # midirec
-Recording midi and transform to wave
+Recording MIDI and transform to wave
